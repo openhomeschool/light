@@ -57,7 +57,15 @@ circuit.  Your instructor will teach you about voltage, current, and resistance.
 Note that your LED **might** light up.  Or it might not.  Whether that signal pin has voltage or
 not is unknown.  Soon, you will tell it to turn on or off.
 
-Open a terminal, according to your instructor's guidance, and type:
+Open a terminal, according to your instructor's guidance.  Long ago, this was one of the the only
+ways a human interacted with a computer.  Actually, there were even more primitive ways to interact
+with a computer, but this was an early and significant way, and is still essential to many today.
+
+**A terminal is a basic program that responds to the most fundamental commands available in a
+computer.**  These fundamental commands are communicated by typing - no buttons, no touch-screen,
+no voice-activation.
+
+Type these two lines.  Hit the "Enter" key after each:
 
 ```sh
 cd ohs
