@@ -148,8 +148,8 @@ can't perceive individual ons and offs?  Can you see anything else interesting w
 
 For more investigation...
 
-[reading resistor color codes](https://eepower.com/resistor-guide/resistor-standards-and-codes/resistor-color-code/)
-[basic Ohm's Law video](https://www.khanacademy.org/science/high-school-physics/dc-circuits/electric-current-resistivity-and-ohms-law/v/circuits-part-1)
-[more on current fundamentals](https://www.khanacademy.org/science/electrical-engineering/introduction-to-ee/intro-to-ee/v/ee-current)
-[circuit logic introduction](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/how-computers-work/v/khan-academy-and-codeorg-circuits-logic)
+* [reading resistor color codes](https://eepower.com/resistor-guide/resistor-standards-and-codes/resistor-color-code/)
+* [basic Ohm's Law video](https://www.khanacademy.org/science/high-school-physics/dc-circuits/electric-current-resistivity-and-ohms-law/v/circuits-part-1)
+* [more on current fundamentals](https://www.khanacademy.org/science/electrical-engineering/introduction-to-ee/intro-to-ee/v/ee-current)
+* [circuit logic introduction](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/how-computers-work/v/khan-academy-and-codeorg-circuits-logic)
 
