@@ -1,4 +1,4 @@
-# The "LIGHT" project
+# The "light" project
 ## openhome.school Computer Class
 
 This project will shed some light on things.  After lighting an LED with a battery and a resistor,
