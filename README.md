@@ -107,13 +107,13 @@ line of code is run, 'led' did not exist.  After this line, 'led' exists, and is
 that we can use to turn our real LED, on our breadboard, on or off.
 
 **A variable is a name, in code, that holds a value.** Our variable, here, 'led', could have been
-assigned just to the value of 2, like this:
+assigned just to the plain "number" value of 2, like this:
 
 ```python
 led = 2
 ```
 
-or to a string representing a color, like this:
+or to a "string" (a string of letters, making a word) representing a color, like this:
 
 ```python
 led = 'red'
@@ -125,6 +125,8 @@ our LED(2) is the pin number, where we the jumper plugs into the GPIO interface.
 in one pin further from the edge, we would need to create our led via LED(3).  If we got this wrong,
 our LED would not light up.  Computers are very logical - they're very picky about every detail.
 
+Next, we see a "print" line, which prints that string to your console when it gets this far.
+
 Finally,
 
 ```python
@@ -135,8 +137,12 @@ This is where our library magic comes in handy.  Once this line of code is execu
 the LED is fed a current of electrons, flowing from the Pi's 3.3-Volt source, slowed by a 330-Ohm
 resistor, so that the electrical conditions are just right for lighting up the LED.
 
+The code then "sleeps" for 5 seconds, so that you can see the effect.  After the program terminates,
+the LED may naturally go off, or it may naturally stay on - the state of a GPIO pin, when you're not
+directly controlling it, is unpredictable.  It could be "on" or "off".
+
 off.py is nearly identical - still just three lines of code.  The only difference is in the pivotal
-third line:
+led line:
 
 ```python
 led.off()

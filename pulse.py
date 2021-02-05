@@ -3,6 +3,7 @@ from time import sleep
 
 led = LED(2)
 
+print('Beginning never-ending loop to "pulse" LED; press Control + C to cancel program.')
 while True: # this is a "forever" loop; pressing Control+C while it's running will stop it, though
 	led.on()
 	sleep(1)
